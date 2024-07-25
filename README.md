@@ -32,4 +32,6 @@
 - 언어: C# <br>
 - 통합 개발 환경 (IDE): Visual Studio & Unity Version Controller<br>
 - 게임 엔진: Unity 3D <br>
+- 기획 환경: Google Drive<br>
+- 디자인 환경: Adobe Photoshop CC<br>
 <br>
