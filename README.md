@@ -29,3 +29,6 @@
 - 기획 환경: Google Drive<br>
 - 디자인 환경: Adobe Photoshop CC<br>
 <br>
+<br>
+
+## [Notion 구경하기](https://teamsparta.notion.site/C01-Catch-The-Fire-3a6b2dce1d6743138fe95c7bcc967510)
